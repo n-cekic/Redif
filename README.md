@@ -1,2 +1,2 @@
 # Redif
-Redis clone in written Go
+Redis clone written in Go
